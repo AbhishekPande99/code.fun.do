@@ -1,6 +1,12 @@
 code.fun.do
 ===========
 
+Author: Satyam Kumar Shivam, Vivek Kumar, Abhay Kumar, Ashutosh Kumar
+-------
+
+Description
+------------
+
 This is a Windows Phone 8 application which updates website content of a given website by taking "server admin id‟, "server admin password‟, "HTML tag id‟ and "content to be updated‟ as input. This application was presented in Microsoft code.fun.do 2014. This apllication uses a local server for processing the input and updating the target website's content as a medium between user's mobile and target website.
 
 This application works as follows:
@@ -13,7 +19,7 @@ This application works as follows:
 
 This application is able to update the target website at real-time.
 
-Short-comings
--------------
+Bug
+----
 
 1. Updation of website takes some delay around 2-3 minutes.
