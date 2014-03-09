@@ -2,7 +2,6 @@ code.fun.do
 ===========
 
 Author: Satyam Kumar Shivam, Vivek Kumar, Abhay Kumar, Ashutosh Kumar
--------
 
 Description
 ------------
